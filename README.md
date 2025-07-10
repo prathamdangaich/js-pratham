@@ -1,2 +1,2 @@
-# js-pratham
-A code repo for javascript
+# Practice Javascript
+A code repo for deploying my JS code while practicing.
